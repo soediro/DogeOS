@@ -15,7 +15,7 @@ For Developer
 
 # How to build DogeOS ?
 
-First of all, you need a SmartOS building environment, which can be setup by following [this](http://wiki.smartos.org/display/DOC/Building+SmartOS+on+SmartOS). You may also need to be able to access public internet inside it, since during the building process we will download lots of stuff.
+First of all, you need a SmartOS building environment, which can be setup by following [this](https://github.com/joyent/smartos-live#building-smartos). You may also need to be able to access public internet inside it, since during the building process we will download lots of stuff.
 
 After that, `cd <somedir>`, then
 
